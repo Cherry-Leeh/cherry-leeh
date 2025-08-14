@@ -13,3 +13,8 @@
   <a href="https://www.instagram.com/cherry__leeh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:alessandramatiasribeiromae@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cherry-leeh/cherry-leeh/output/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cherry-leeh/cherry-leeh/output/dist/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/cherry-leeh/cherry-leeh/output/dist/github-snake.svg" />
+</picture>
