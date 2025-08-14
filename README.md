@@ -1,7 +1,7 @@
 ## Olá aqui é a Alessandra
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cherry-leeh&hide=contribs,prs&theme=jolly">
-<img height="180em" src="https://github.com/cherry-leeh/github-readme-stats">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=cherry-leeh&repo=github-readme-statss">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
