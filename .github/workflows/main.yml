@@ -1,25 +1,31 @@
-name: Generate Datas
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # a cada 12 horas, no minuto 0
+    - cron: "0 */12 * * *"   # a cada 12h, no minuto 0 (UTC)
   workflow_dispatch:
+
+# necessário para poder commitar no branch "output"
+permissions:
+  contents: write
 
 jobs:
   build:
-    name: Generate Snake Animation
+    name: Generate & Publish
     runs-on: ubuntu-latest
     steps:
-      # Gera a animação Snake
-      - uses: Platane/snk/svg-only@v3
-        id: snake-gif
+      # Gera os SVGs (claro/escuro)
+      - name: Generate snake (SVG)
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: cherry-leeh
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      # Publica no branch 'output'
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3
+      # Publica os arquivos no branch "output"
+      - name: Deploy to GitHub Pages branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
