@@ -1,6 +1,6 @@
 ## Olá aqui é a Alessandra
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=jolly">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cherry-leeh&hide=contribs,prs&theme=jolly">
 <img height="180em" src="https://github.com/cherry-leeh/github-readme-stats">
 
 <div style="display: inline_block"><br>
