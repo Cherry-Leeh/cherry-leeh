@@ -4,15 +4,13 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="500" 
-    width="500"
+    height="300" 
     src="https://github-readme-stats.vercel.app/api?username=cherry-leeh&show_icons=true&theme=omni&include_all_commits=true&locale=pt-br" 
   />
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="500"
-      width="400"
+      height="300"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherry-leeh&theme=omni&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
