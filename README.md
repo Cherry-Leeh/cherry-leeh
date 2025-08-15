@@ -1,17 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b44275&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff58ae&height=120&section=header"/>
 
-## Olá aqui é a Alessandra
+<div align="center">
+  
+Hello Word, my name is Alessandra
+ 
+</div>
 
-<p>
-<img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=cherry-leeh&show_icons=true&theme=omni&include_all_commits=true&locale=pt-br" 
-  />
-<img
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherry-leeh&theme=omni&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-</p>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cherry-leeh&show_icons=true&count_private=true&hide_border=true&title_color=ff58ae&icon_color=af69cd&text_color=af69cd&bg_color=0d1117" alt="cherry-leeh github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherry-leeh&layout=compact&hide_border=true&title_color=ff58ae&text_color=ff58ae&bg_color=0d1117" />
+</div>
 
 ### Linguagens
 
@@ -49,9 +48,12 @@ ___
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:alessandramatiasribeiromae@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/cherry__leeh)
 
-
+<div align="center">
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cherry-leeh/cherry-leeh/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cherry-leeh/cherry-leeh/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cherry-leeh/cherry-leeh/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff58ae&height=120&section=footer"/>
