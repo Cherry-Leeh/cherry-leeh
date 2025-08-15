@@ -1,8 +1,9 @@
 ## Olá aqui é a Alessandra
 
-<div style="text-align: center;" align="center">
+
 <p>
-  <img 
+  
+<img 
     align="left" 
     alt="GitHub Stats" 
     height="300" 
@@ -13,13 +14,13 @@
       alt="GitHub Stats" 
       height="300"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherry-leeh&theme=omni&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</div>
-
+/>
 </p>
+
 
 ### Linguagens
 
+<div align="left">
 <img 
     align="left" 
     alt="HTML"
@@ -44,6 +45,10 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+</div>
+
+<br/>
+
 ___
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:alessandramatiasribeiromae@gmail.com)
