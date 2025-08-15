@@ -1,5 +1,6 @@
-## Olá aqui é a Alessandra
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b44275&height=120&section=header"/>
 
+## Olá aqui é a Alessandra
 
 <p>
 <img 
