@@ -3,24 +3,22 @@
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff58ae&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Alessandra+Matias;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
- 
+
 </div>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cherry-leeh&show_icons=true&count_private=true&hide_border=true&title_color=ff58ae&icon_color=af69cd&text_color=af69cd&bg_color=0d1117" alt="cherry-leeh github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherry-leeh&layout=compact&hide_border=true&title_color=ff58ae&text_color=ff58ae&bg_color=0d1117" />
-</div>
-
-<div align="center">
-   
-<img align="right" width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/9ba17035-583c-45ac-acb5-49038683e0c5"/>
-   
-</div>
-
-<div align="center">
   
-<img align="left" width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/9ba17035-583c-45ac-acb5-49038683e0c5"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cherry-leeh&show_icons=true&count_private=true&hide_border=true&title_color=ff58ae&icon_color=af69cd&text_color=af69cd&bg_color=0d1117" alt="cherry-leeh github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherry-leeh&layout=compact&hide_border=true&title_color=ff58ae&text_color=ff58ae&bg_color=0d1117"/>
+  
+</div>
 
+<div align="center">
+<img align="right" width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/221560b2-6151-47f3-ae04-b57c1c011757"/>
+</div>
+
+<div align="center">
+<img align="left" width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/221560b2-6151-47f3-ae04-b57c1c011757"/>
 </div>
 
 <div align="center">
@@ -62,7 +60,7 @@ ___
   <br>
   <br>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:alessandramatiasribeiromae@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF00F6)](mailto:alessandramatiasribeiromae@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/cherry__leeh)
 
 <div align="center">
