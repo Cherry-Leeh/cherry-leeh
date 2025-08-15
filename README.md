@@ -12,9 +12,18 @@
 </div>
 
 <div align="center">
+   
+<img align="right" width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/9ba17035-583c-45ac-acb5-49038683e0c5"/>
+   
+</div>
+
+<div align="center">
   
+<img align="left" width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/9ba17035-583c-45ac-acb5-49038683e0c5"/>
 
+</div>
 
+<div align="center">
 <br>
 <img 
     align="center" 
