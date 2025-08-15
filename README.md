@@ -52,14 +52,9 @@
 ___
 
 <div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
+  <img width=30% src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=0d1117&text=Contact%20me:&fontColor=ff58ae"/>
   <br>
-  <br>
-
+  
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=flat-square&color=0d1117&logo=gmail&logoColor=FF00F6)](mailto:alessandramatiasribeiromae@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat-square&color=0d1117&logo=instagram&logoColor=FF00F6)](https://www.instagram.com/cherry__leeh)
 
