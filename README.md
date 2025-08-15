@@ -11,14 +11,21 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="300" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherry-leeh&theme=omni&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-### 🤖 Linguagens e Tecnologias
+
+### Linguagens
 
 <img 
     align="left" 
@@ -45,7 +52,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <br/>
-<br/>
+___
 
 <div> 
   <a href="https://www.instagram.com/cherry__leeh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
