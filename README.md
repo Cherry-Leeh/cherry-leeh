@@ -60,8 +60,8 @@ ___
   <br>
   <br>
 
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF00F6)](mailto:alessandramatiasribeiromae@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/cherry__leeh)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=flat-square&color=0d1117&logo=gmail&logoColor=FF00F6)](mailto:alessandramatiasribeiromae@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat-square&color=0d1117&logo=instagram&logoColor=FF00F6)](https://www.instagram.com/cherry__leeh)
 
 <div align="center">
 <picture align="center">
