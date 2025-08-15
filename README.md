@@ -2,21 +2,14 @@
 
 
 <p>
-  
 <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="300" 
     src="https://github-readme-stats.vercel.app/api?username=cherry-leeh&show_icons=true&theme=omni&include_all_commits=true&locale=pt-br" 
   />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="300"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherry-leeh&theme=omni&layout=compact&custom_title=Tecnologias&langs_count=9" 
+<img
+  height="195" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherry-leeh&theme=omni&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 </p>
-
 
 ### Linguagens
 
@@ -47,14 +40,13 @@
 />
 </div>
 
-<br/>
+<br>
 
 ___
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:alessandramatiasribeiromae@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/cherry__leeh)
 
-<br/>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cherry-leeh/cherry-leeh/output/github-contribution-grid-snake-dark.svg">
