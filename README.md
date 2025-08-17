@@ -28,7 +28,7 @@
     alt="HTML"
     title="HTML" 
     width="4%" 
-    style="padding-right: 10;" 
+    style="padding-right: 10%" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
 <img 
@@ -36,7 +36,7 @@
     alt="CSS" 
     title="CSS"
     width="7%" 
-    style="padding-right: 10;" 
+    style="padding-right: 10%"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
@@ -44,7 +44,7 @@
     alt="JavaScript" 
     title="JavaScript"
     width="4%" 
-    style="padding-right: 10;" 
+    style="padding-right: 10%" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 </div>
