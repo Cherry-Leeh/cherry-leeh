@@ -14,11 +14,11 @@
 </div>
 
 <div align="center">
-<img align="right" width="100rem" height="100rem" alt="Image" src="https://github.com/user-attachments/assets/221560b2-6151-47f3-ae04-b57c1c011757"/>
+<img align="right" width="100px" height="100px" alt="Image" src="https://github.com/user-attachments/assets/221560b2-6151-47f3-ae04-b57c1c011757"/>
 </div>
 
 <div align="center">
-<img align="left" width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/221560b2-6151-47f3-ae04-b57c1c011757"/>
+<img align="left" width="100px" height="100px" alt="Image" src="https://github.com/user-attachments/assets/221560b2-6151-47f3-ae04-b57c1c011757"/>
 </div>
 
 <div align="center">
