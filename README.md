@@ -27,7 +27,7 @@
     align="center" 
     alt="HTML"
     title="HTML" 
-    width="40px" 
+    width="4%" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
@@ -35,7 +35,7 @@
     align="center" 
     alt="CSS" 
     title="CSS"
-    width="70px" 
+    width="7%" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -43,7 +43,7 @@
     align="center" 
     alt="JavaScript" 
     title="JavaScript"
-    width="40px" 
+    width="4%" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
