@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-<img align="right" width="100px" height="100px" alt="Image" src="https://github.com/user-attachments/assets/221560b2-6151-47f3-ae04-b57c1c011757"/>
+<img align="right" width="10%" height="100px" alt="Image" src="https://github.com/user-attachments/assets/221560b2-6151-47f3-ae04-b57c1c011757"/>
 </div>
 
 <div align="center">
@@ -27,7 +27,7 @@
     align="center" 
     alt="HTML"
     title="HTML" 
-    width="40ren" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
@@ -35,7 +35,7 @@
     align="center" 
     alt="CSS" 
     title="CSS"
-    width="70ren" 
+    width="70px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -43,7 +43,7 @@
     align="center" 
     alt="JavaScript" 
     title="JavaScript"
-    width="40ren" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
