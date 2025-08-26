@@ -18,7 +18,9 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/94b17d65-f86e-4637-a676-51d81559ebf0." width="500px"/>
+
+![Image](https://github.com/user-attachments/assets/e8a9921f-a00c-48d7-bd9c-a850cfe14c8e)
+
 </div>
 
 <div align="center">
