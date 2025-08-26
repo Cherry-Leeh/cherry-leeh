@@ -17,9 +17,9 @@
 <img align="right" width="10%" height="100px" alt="Image" src="https://github.com/user-attachments/assets/221560b2-6151-47f3-ae04-b57c1c011757"/>
 </div>
 
-<div align="center">
-<img align="left" width="10%" height="100px" alt="Image" src="https://github.com/user-attachments/assets/221560b2-6151-47f3-ae04-b57c1c011757"/>
-</div>
+<div align="center"
+img src="https://desblogada.files.wordpress.co..." width="0px"
+/div>
 
 <div align="center">
 <br>
