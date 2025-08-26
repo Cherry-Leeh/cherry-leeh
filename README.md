@@ -8,7 +8,7 @@
 
 <div align="center">  
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cherry-leeh&show_icons=true&count_private=true&hide_border=true&title_color=ff58ae&icon_color=af69cd&text_color=af69cd&bg_color=0d1117" alt="cherry-leeh github stats"/> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cherryleeh&show_icons=true&count_private=true&hide_border=true&title_color=ff58ae&icon_color=af69cd&text_color=af69cd&bg_color=0d1117" alt="cherry-leeh github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherry-leeh&layout=compact&hide_border=true&title_color=ff58ae&text_color=ff58ae&bg_color=0d1117"/>
   
 </div>
@@ -18,9 +18,7 @@
 </div>
 
 <div align="center">
-
-![Image](https://github.com/user-attachments/assets/e8a9921f-a00c-48d7-bd9c-a850cfe14c8e)
-
+<img align="left" width="10%" height="100px" alt="Image" src="https://github.com/user-attachments/assets/221560b2-6151-47f3-ae04-b57c1c011757"/>
 </div>
 
 <div align="center">
